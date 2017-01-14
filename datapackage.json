@@ -1,0 +1,47 @@
+{
+  "name": "food-allergens",
+  "title": "Zutaten, die Allergien oder andere unerwünschte Reaktionen auslösen können",
+  "format": "csv",
+  "datapackage_version": "1.0.0",
+  "last_modified": "2017-01-14",
+  "licenses": [
+    {
+      "type": "ODC-PDDL-1.0",
+      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Schweizer Recht: Kennzeichnung und Anpreisung von Lebensmitteln. V des EDI 817.022.21 p.37",
+      "web": "https://www.admin.ch/opc/de/classified-compilation/20050161/201403250000/817.022.21.pdf"
+    },
+    {
+      "name": "kochenOHNE",
+      "web": "https://www.kochenohne.de/allergien/liste-der-allergien-intoleranzen/"
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://raw.github.com/schoolofdata-ch/food-allergens/master/data/food-allergens.csv",
+      "path": "data/food-allergens.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Hauptgruppe",
+            "description": "Overarching food group",
+            "type": "string"
+          },
+          {
+            "name": "Untergruppe",
+            "description": "Food sub-group",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "maintainers":[{
+    "name": "Oleg Lavrovsky",
+    "web": "https://loleg.github.io/"
+  }]
+}
