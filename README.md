@@ -12,20 +12,20 @@ This dataset is based on the [Swiss legislation on food allergens](https://www.a
 
 Our starting point was the Swiss law, which lists the 14 overarching categories of food ingredients that are the most common allergens, i.e.:
 
-# Glutenhaltige Getreide
-# Krebstiere
-# Eier
-# Fische
-# Erdnüsse
-# Sojabohnen
-# Milch
-# Hartschalenobst (Nüsse)
-# Sellerie
-# Senf
-# Sesamsamen
-# Schwefeldioxid und Sulfite
-# Lupinen
-# Weichtiere
+1. Glutenhaltige Getreide
+1. Krebstiere
+1. Eier
+1. Fische
+1. Erdnüsse
+1. Sojabohnen
+1. Milch
+1. Hartschalenobst (Nüsse)
+1. Sellerie
+1. Senf
+1. Sesamsamen
+1. Schwefeldioxid und Sulfite
+1. Lupinen
+1. Weichtiere
 
 We created and filled out the data by hand from the PDF. We compared this list to the very similar and more comprehensive one published on [kochenOHNE.de](https://www.kochenohne.de/allergien/liste-der-allergien-intoleranzen/) and even did a manual scrape, but currently are unsure about the [legal terms](https://www.kochenohne.de/allgemeine-geschaeftsbedingungen/) of this website - whether we may republish this list, and what are its sources.
 
