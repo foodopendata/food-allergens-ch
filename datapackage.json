@@ -14,10 +14,6 @@
     {
       "name": "Schweizer Recht: Kennzeichnung und Anpreisung von Lebensmitteln. V des EDI 817.022.21 p.37",
       "web": "https://www.admin.ch/opc/de/classified-compilation/20050161/201403250000/817.022.21.pdf"
-    },
-    {
-      "name": "kochenOHNE",
-      "web": "https://www.kochenohne.de/allergien/liste-der-allergien-intoleranzen/"
     }
   ],
   "resources": [
@@ -28,12 +24,12 @@
         "fields": [
           {
             "name": "Hauptgruppe",
-            "description": "Overarching food group",
+            "description": "Overall food group",
             "type": "string"
           },
           {
             "name": "Untergruppe",
-            "description": "Food sub-group",
+            "description": "Food subgroup",
             "type": "string"
           }
         ]

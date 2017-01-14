@@ -6,10 +6,7 @@ Currently available in German only.
 
 ## Data
 
-Data comes from multiple sources as follows:
-
-- [Swiss legislation on food allergens](https://www.admin.ch/opc/de/classified-compilation/20050161/201403250000/817.022.21.pdf) (PDF; p. 37)
-- [kochenOHNE.de](https://www.kochenohne.de/allergien/liste-der-allergien-intoleranzen/)
+This dataset is based on the [Swiss legislation on food allergens](https://www.admin.ch/opc/de/classified-compilation/20050161/201403250000/817.022.21.pdf) (PDF; p. 37)
 
 ## Preparation
 
@@ -30,9 +27,9 @@ Our starting point was the Swiss law, which lists the 14 overarching categories 
 # Lupinen
 # Weichtiere
 
-We created and filled out the basic categories by hand, then collated our spreadsheet with data from a (manual) web scrape of a German cooking website.
+We created and filled out the data by hand from the PDF. We compared this list to the very similar and more comprehensive one published on [kochenOHNE.de](https://www.kochenohne.de/allergien/liste-der-allergien-intoleranzen/) and even did a manual scrape, but currently are unsure about the [legal terms](https://www.kochenohne.de/allgemeine-geschaeftsbedingungen/) of this website - whether we may republish this list, and what are its sources.
 
-We looked into the possibility of linking this list to a resource like [FoodAllergy.org](http://www.foodallergy.org/allergens) or the [InformAll database](http://research.bmh.manchester.ac.uk/informAll), which contain detailed information ([example](http://research.bmh.manchester.ac.uk/informall/allergenic-food/?FoodId=5031)) on each allergen. Linking even to a scientific resource like [AllergenOnline.org](http://www.allergenonline.org/) would be possible with a reliable way to match allergens.
+We then looked into the possibility of linking such data to a resource like [FoodAllergy.org](http://www.foodallergy.org/allergens) or the [InformAll database](http://research.bmh.manchester.ac.uk/informAll), which contain detailed information ([example](http://research.bmh.manchester.ac.uk/informall/allergenic-food/?FoodId=5031)) on each allergen. The use of a scientific resource like [AllergenOnline.org](http://www.allergenonline.org/) would be possible with a reliable way to match allergens.
 
 ## Notes
 
@@ -72,7 +69,7 @@ This material is licensed by its maintainers under the Public Domain Dedication
 and License.
 
 Nevertheless, it should be noted that this material is currently sourced from
-several third-parties whose data publishign rights and licensing policies are somewhat
+several third-parties whose data publishing rights and licensing policies are somewhat
 unclear.
 
 If you intended to use these data in a public or commercial product, please
