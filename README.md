@@ -6,7 +6,7 @@ Currently available in German only.
 
 ## Data
 
-This dataset is based on the [Swiss legislation on food allergens](https://www.admin.ch/opc/de/classified-compilation/20050161/201403250000/817.022.21.pdf) (PDF; p. 37)
+This dataset is based on the [Swiss legislation on food allergens](https://www.admin.ch/opc/de/classified-compilation/20050161/201403250000/817.022.21.pdf) (PDF); see p. 37 - *Zutaten, die Allergien oder andere unerwünschte Reaktionen auslösen können*.
 
 ## Preparation
 

@@ -1,6 +1,6 @@
 {
   "name": "food-allergens",
-  "title": "Zutaten, die Allergien oder andere unerwünschte Reaktionen auslösen können",
+  "title": "Ingredients that can cause allergies or other adverse reactions",
   "format": "csv",
   "datapackage_version": "1.0.0",
   "last_modified": "2017-01-14",
