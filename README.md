@@ -65,7 +65,7 @@ Further reading:
 
 ## License
 
-This material is licensed by its maintainers under the Public Domain Dedication
+This package is licensed by its maintainers under the Public Domain Dedication
 and License.
 
 Nevertheless, it should be noted that this material is currently sourced from
