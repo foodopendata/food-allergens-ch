@@ -49,6 +49,7 @@ Questions:
 
 See also:
 
+- [Federal Food Safety and Veterinary Office on foodstuffs labelling](https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/naehrstoffe/naehrwertinformationen-und-kennzeichnung.html) (German/French/Italian)
 - [E.U. Food information to consumers - legislation](http://ec.europa.eu/food/safety/labelling_nutrition/labelling_legislation_en)
 - [U.K. Food Standards Agency - Allergy and intolerance: guidance for businesses](https://www.food.gov.uk/business-industry/allergy-guide)
 - [InformAll database of allergenic food materials](http://research.bmh.manchester.ac.uk/informAll)
